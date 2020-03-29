@@ -9,6 +9,7 @@ hr {
 }
 img {
   height:100px;
+  border-radius: 10px 100px / 120px;
 }
 h1 {
   color: #66BFBF;
@@ -16,6 +17,4 @@ h1 {
 h3 {
   color: #66BFBF;
 }
-img {
-  border-radius: 10px 100px / 120px;
-}
+Ju
