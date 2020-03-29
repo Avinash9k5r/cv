@@ -17,5 +17,5 @@ h3 {
   color: #66BFBF;
 }
 img {
-  border-radius:100%;
+  border-radius: 10px 100px / 120px;
 }
