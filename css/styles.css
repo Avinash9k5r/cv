@@ -1,0 +1,171 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 0;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #d4ebd0;
+  padding-top: 100px;
+  position: relative;
+
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+  width: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+  width: 200px;
+}
+
+.profile-photo {
+  width: 275px;
+  height: 250px;
+  border-radius: 100%;
+}
+
+.mountain {
+  position: relative;
+  margin-top: 100px;
+}
+
+.internshala {
+  width: 200px;
+  height: 100px;
+  float:left;
+}
+
+.udemy {
+  width: 200px;
+  height: 100px;
+  float: left;
+}
+
+.java {
+  width: 300px;
+  height: 200px;
+  float:right;
+  position: relative;
+  bottom: 75px;
+
+}
+.skill-row-1 {
+  width:50%;
+  margin:50px auto 100px auto;
+  text-align: left;
+
+}
+.skill-row-2 {
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+.intro {
+  width:30%;
+  margin: 50px auto auto auto;
+}
+.hello {
+  margin-top: 10px;
+}
+p {
+  line-height: 2;
+}
+hr {
+  border : dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin : 100px auto;
+
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.contact-button {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #FFFFFF !important;
+  font-size: 20px;
+
+  box-shadow: 1px 1px 1px #F3F5E9;
+  padding: 10px 25px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  background: #15BEC4;
+  background: linear-gradient(top,  #11CDD4,  #11999E);
+  background: -ms-linear-gradient(top,  #11CDD4,  #11999E);
+  background: -webkit-gradient(linear, left top, left bottom, from(#11CDD4), to(#11999E));
+  background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
+}
+.contact-button:hover {
+  color: #FFFFFF !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -ms-linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -webkit-gradient(linear, left top, left bottom, from(#30E3CB), to(#2BC4AD));
+  background: -moz-linear-gradient(top,  #30E3CB,  #2BC4AD);
+}
+.footer {
+  background-color: #d4ebd0;
+  padding:50px 0 20px;
+}
+.footer-link {
+  color: #11999E;
+  margin : 10px 20px;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover {
+  color: #40514E;
+}
+.copyright {
+  color:#40514E;
+  font-size: 0.75rem;
+  padding:10px 0;
+}
+.contact-me-new {
+  background-color: #d4ebd0;
+}
+.mobile-no {
+  margin-top: 0;
+}
